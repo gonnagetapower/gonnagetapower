@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gonnagetapower/static/css/main.8888a8b2.css",
+    "main.js": "/gonnagetapower/static/js/main.d979081a.js",
+    "static/media/camera.svg": "/gonnagetapower/static/media/camera.5c356e6f3b5959a821187af8bf8a82eb.svg",
+    "index.html": "/gonnagetapower/index.html",
+    "main.8888a8b2.css.map": "/gonnagetapower/static/css/main.8888a8b2.css.map",
+    "main.d979081a.js.map": "/gonnagetapower/static/js/main.d979081a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8888a8b2.css",
+    "static/js/main.d979081a.js"
+  ]
+}
