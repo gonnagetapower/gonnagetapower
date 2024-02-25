@@ -7,7 +7,7 @@ import axiosRetry from "axios-retry";
 const formatedDate = getFormatedDate()
 
 const $authHost = axios.create({
-    baseURL: 'http://api.valantis.store:40000/'
+    baseURL: 'https://api.valantis.store:41000/'
 })
 
 const authInterceptor = config => {
