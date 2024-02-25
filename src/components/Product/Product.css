@@ -1,0 +1,17 @@
+.product {
+    width: 380px;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+.product__img {
+    height: 60%;
+}
+
+.product__img>img {
+    width: 200px;
+    height: 200px;
+}
